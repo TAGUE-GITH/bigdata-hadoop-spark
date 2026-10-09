@@ -1,0 +1,31 @@
+client_id,pays,segment
+C001,Royaume-Uni,Particulier
+C002,France,Grand compte
+C003,Espagne,Particulier
+C004,Allemagne,Particulier
+C005,Royaume-Uni,Particulier
+C006,Royaume-Uni,Grand compte
+C007,Belgique,Particulier
+C008,Belgique,PME
+C009,France,Particulier
+C010,France,Particulier
+C011,Allemagne,Grand compte
+C012,Belgique,Particulier
+C013,Belgique,Particulier
+C014,Royaume-Uni,Grand compte
+C015,Royaume-Uni,Grand compte
+C016,Italie,Particulier
+C017,,Grand compte
+C018,Espagne,Particulier
+C019,Allemagne,Grand compte
+C020,Italie,PME
+C021,Espagne,Particulier
+C022,Allemagne,PME
+C023,France,Particulier
+C024,Italie,Particulier
+C025,Espagne,PME
+C026,Belgique,PME
+C027,France,Grand compte
+C028,Italie,Grand compte
+C029,France,PME
+C030,France,Grand compte

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+spark-warehouse/
+metastore_db/
+derby.log
+spark/data/
+hadoop/tp2_admin_hdfs/preuves/
+hadoop/tp3_mapreduce/sorties/
+hadoop/tp3_mapreduce/execution.log
+tools/winfs-shim/classes/

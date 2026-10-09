@@ -1,0 +1,13 @@
+produit_id,famille,prix_ref
+P001,Disjoncteur,12.50
+P002,Disjoncteur,18.90
+P003,Prise,6.40
+P004,Prise,8.90
+P005,Interrupteur,5.20
+P006,Interrupteur,9.75
+P007,Eclairage,-24.00
+P008,Eclairage,39.90
+P009,Cable,15.30
+P010,Cable,22.80
+P011,Tableau,89.00
+P012,Tableau,129.00
